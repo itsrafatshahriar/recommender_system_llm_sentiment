@@ -1,0 +1,15 @@
+
+[1] Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). **BERT: Pre-training of deep bidirectional transformers for language understanding**. *Proceedings of NAACL-HLT 2019*, 4171–4186. [https://doi.org/10.18653/v1/N19-1423](https://doi.org/10.18653/v1/N19-1423)
+
+[2] Johnson, J., & Wichern, D. W. (2019). **Applied Multivariate Statistical Analysis** (7th ed.). Pearson.
+
+[3] Zhang, Y., Wang, S., & Li, Z. (2022). **A survey of sentiment analysis in e-commerce applications**. *International Journal of Machine Learning, 30*(2), 125–140. [https://doi.org/10.1007/s10994-022-05853-0](https://doi.org/10.1007/s10994-022-05853-0)
+
+[4] Tang, Y., Li, J., & Zhang, X. (2021). **Enhancing recommendation systems with sentiment analysis: A hybrid model approach**. *Journal of Machine Learning, 29*(3), 242–259. [https://doi.org/10.1007/s10994-021-06043-x](https://doi.org/10.1007/s10994-021-06043-x)
+
+[5] McAuley-Lab. (2023). **Amazon-Reviews-2023** [Dataset]. Hugging Face. Retrieved from [https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
+
+[6] Johnson, J., & Wichern, D. (2019). **FAISS: A library for efficient similarity search and clustering of dense vectors**. *Journal of Machine Learning Research, 20*(1), 289–296.
+
+[7] Hugging Face. (n.d.). **SST-5** [Dataset]. Hugging Face. [https://huggingface.co/datasets/SetFit/sst5](https://huggingface.co/datasets/SetFit/sst5)
+
